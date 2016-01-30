@@ -36,10 +36,12 @@
 
 2. Which Octocat is your favorite?
 
-  Baracktocat
+  Topguntocat
 
 3. What text editor do you use?
 
-  Android Studio and Sublime. Back in the day, Vim and Eclipse.
+  Vim
 
 4. What questions do you want to ask?
+
+  I don't know
