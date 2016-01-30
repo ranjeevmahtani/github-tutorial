@@ -32,14 +32,16 @@
 
 1. Which Nanodegree have you taken?
 
-  Android
+   Android
 
-2. Which Octocat is your favorite?
+2. Which Octocat is your favotire?
 
-  Baracktocat
+   What's an Octocar again?
 
 3. What text editor do you use?
 
-  Android Studio and Sublime. Back in the day, Vim and Eclipse.
+   Sublime?
 
 4. What questions do you want to ask?
+
+   Rebase what????
