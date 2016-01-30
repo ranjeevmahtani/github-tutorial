@@ -32,14 +32,16 @@
 
 1. Which Nanodegree have you taken?
 
-  Android
+  Full Stack Nanodegree
 
 2. Which Octocat is your favorite?
 
-  Baracktocat
+  Octonaut
 
 3. What text editor do you use?
 
-  Android Studio and Sublime. Back in the day, Vim and Eclipse.
+  Sublime Text 2
 
 4. What questions do you want to ask?
+  
+  How many tentacles has a Octocat?
