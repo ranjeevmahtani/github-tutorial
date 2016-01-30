@@ -32,7 +32,8 @@
 
 1. Which Nanodegree have you taken?
 
-  Android
+  FSND
+  FEND
 
 2. Which Octocat is your favorite?
 
@@ -43,3 +44,6 @@
   Android Studio and Sublime. Back in the day, Vim and Eclipse.
 
 4. What questions do you want to ask?
+
+  Q: how many programmers does it take to change a light bulb?
+  A: none, that's a hardware problem
